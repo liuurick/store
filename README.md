@@ -1,4 +1,5 @@
 # store
+运行环境：eclipse+jdk1.8
 基于mvc框架的Java web购物商城
 特点：
 1.这个Java web购物商城基于mvc架构
